@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 2,
+      "name": "OPQ",
+      "username": "test2",
+      "email": "test456@gmail.com",
+      "phone": "91-854-987-0125",
+      "website": "test2.com"
+    },
+    {
+      "id": 3,
+      "name": "LMN",
+      "username": "test3",
+      "email": "test789@gmail.com",
+      "phone": "91-978-821-8550",
+      "website": "test.com"
+    },
+    {
+      "id": 4,
+      "name": "XYZ",
+      "username": "test4",
+      "email": "test1741@gmail.com",
+      "phone": "91-976-854-3540",
+      "website": "test.com"
+    },
+    {
+      "id": 5,
+      "name": "def",
+      "username": "test5",
+      "email": "test963@gmail.com",
+      "phone": "91-921-854-9650",
+      "website": "test.com"
+    },
+    {
+      "name": "ABC",
+      "email": "test123@gmail.com",
+      "phone": "985-254-8520",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "test123@gmail.com",
+      "phone": "91-968-857-3260",
+      "id": 7
+    }
+  ]
+}
