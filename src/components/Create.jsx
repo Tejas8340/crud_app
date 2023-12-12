@@ -26,6 +26,7 @@ function Create() {
         <form onSubmit={handleSubmit}>
           <div className="mb-2">
             <label htmlFor="name">Name :</label>
+            
             <input
               type="text"
               name="name"
